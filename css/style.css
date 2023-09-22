@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+
+.navbar-nav a {
+    color: #737373;
+}
+
+.images {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.list-inline-item a {
+    color: #737373;
+}
+
+.btn {
+    padding: 0px 10px 0px 10px !important;
+    border-color: #737373 !important;
+}
+
